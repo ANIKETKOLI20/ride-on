@@ -1,0 +1,4 @@
+.hollow-circle {
+  box-shadow: 0 0 10px rgba(255, 255, 0, 0.5); /* Glowing effect around the hollow circle */
+  transition: transform 0.15s ease-in-out; /* Smooth movement */
+}
